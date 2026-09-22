@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "aliases": ["lemmy"],
-  "repository": "https://github.com/0xCmdrKeen/ferdium-recipes",
+  "repository": "https://github.com/0xCmdrKeen/ferdium-recipe-photon",
   "config": {
     "serviceURL": "https://phtn.app/",
     "hasCustomUrl": true,
